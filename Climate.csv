@@ -1,0 +1,17 @@
+Date,City,Pollution (AQI),Temperature (C),Rainfall (mm)
+"1st Jan, 2018",Mumbai,285,27,1780
+"1st Jan, 2019",Mumbai,263,32,1870
+"1st Jan, 2020",Mumbai,248,29,1800
+"1st Jan, 2021",Mumbai,178,30,1750
+"1st Jan, 2018",Delhi,463,19,638
+"1st Jan, 2019",Delhi,439,15,600
+"1st Jan, 2020",Delhi,430,17,640
+"1st Jan, 2021",Delhi,406,19,625
+"1st Jan, 2018",Chennai,105,29,1520
+"1st Jan, 2019",Chennai,161,30,1460
+"1st Jan, 2020",Chennai,54,28,1590
+"1st Jan, 2021",Chennai,39,27,1470
+"1st Jan, 2018",Kolkata,350,26,1780
+"1st Jan, 2019",Kolkata,400,24,1950
+"1st Jan, 2020",Kolkata,350,25,1890
+"1st Jan, 2021",Kolkata,281,26,1870
